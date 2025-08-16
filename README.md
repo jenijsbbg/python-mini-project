@@ -1,2 +1,2 @@
 # python-mini-project
-Python script for processing, analyzing, and visualizing data from Excel/CSV files.
+Python script for processing, analyzing, and visualizing data 
